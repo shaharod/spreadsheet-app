@@ -1,0 +1,32 @@
+VIDEO
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Tests and coverage
+.pytest_cache/
+.coverage
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Build / export files (not tracked in repo)
+*.xlsx
+*.csv
+*.pdf
+*.json
+*.yaml
+
+
+
